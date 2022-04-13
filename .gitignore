@@ -42,7 +42,7 @@
 .idea/modules.xml
 .idea/*.iml
 .idea/modules
- *.iml
+*.iml
 *.ipr
 
 # CMake
@@ -151,4 +151,3 @@ thumb
 sketch
 
 # End of https://www.toptal.com/developers/gitignore/api/intellij+all,react,java,maven
-src/
